@@ -1,0 +1,68 @@
+#titlearea {
+    border: 0;
+    width: auto;
+    padding: 10px;
+}
+.tabs, .tabs2, .tabs3 {
+    background-image: none;
+    background-color: #002052;
+    border: 1px solid #fff;
+    border-width: 0 0 1px 0 ;
+}
+
+.tablist li.current a {
+    background-image: none;
+    background-color: #bc0;
+    text-shadow: none;
+    color: #002052;
+}
+
+.tablist li a{
+    background-image: none;
+    background-color: #002052;
+    text-shadow: none;
+    color: #fff;
+}
+.tablist li a:hover{
+    background-image: none;
+    background-color: #fff;
+    text-shadow: none;
+    color: #002052;
+}
+
+div.header {
+    background-image: none;
+    background-color: #fff;
+}
+#st_logo{
+    float:right;
+}
+#text-slogan{
+    margin: 0 0 5px 0;
+}
+#navrow1{
+    clear:both;
+}
+.memitem{
+    -webkit-box-shadow: 0px 0px 0px;
+}
+.memproto{
+    background-image: none;
+    background-color: #39A9DC;
+    -webkit-box-shadow: 0px 0px 0px;
+    box-shadow: 0px 0px 0px;
+    text-shadow: none;
+    color: #fff;
+}
+.confidential{
+    color: #D4007A;
+    font-size: 16px;
+    float: right;
+}
+div.footer{
+    padding: 10px;
+}
+.image
+{
+   text-align: left;
+}

@@ -1,0 +1,1423 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#af8c94fb9a3dc3038f66c3303f4e5baab"><param name="Name" value="AmbientRateRtnMegaCps"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html#a9b2b32aa4650f2e050b9031cbc75277c"><param name="Name" value="BotRightX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html#a14af6385eb3db182c5f5094f04fa3c63"><param name="Name" value="BotRightY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html#af3c05b4cd67450314918f5f9fab863d6"><param name="Name" value="CurrentParameters"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#a8d92b65da83e53d9ea32db083351fdb5"><param name="Name" value="DISABLE_WARNINGS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#aba1cefea9cfae6112be1c53f072c1da0"><param name="Name" value="Data"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__DistanceModes__group.html"><param name="Name" value="Defines Distance modes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__OffsetCorrectionModes__group.html"><param name="Name" value="Defines Offset Correction modes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Smudge__Mode__group.html"><param name="Name" value="Defines smudge correction modes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html"><param name="Name" value="Defines the Range Status"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="DisclaimerPage.html"><param name="Name" value="Disclaimer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceParameters__t.html#ab95ed15f1976863abc07c7f2c717acee"><param name="Name" value="DistanceMode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#a9bc6009f246aea86c0e91e5a56a665b3"><param name="Name" value="ENABLE_WARNINGS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#aac91060df9c976133859d78b178d0fb5"><param name="Name" value="EffectiveSpadRtnCount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html"><param name="Name" value="Error and Warning code returned by API"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a24e1fe993eabeb53971154080cb134bf"><param name="Name" value="ExtendedRange"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#afb910790161809fc76e1a274a6349384"><param name="Name" value="FixPoint1616_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html"><param name="Name" value="General Macro Defines"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#aefa7777634eb203f571f39c441262153"><param name="Name" value="HasXtalkValueChanged"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html#aa0d3adc918f1bbf8e58c0117813f2f07"><param name="Name" value="LLData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceParameters__t.html#a6ce7732d0d5c34749e167ed4929a786b"><param name="Name" value="MeasurementTimingBudgetMicroSeconds"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#a4a7b0ddcf3f00ec276c9f3112f04e9c4"><param name="Name" value="NumberOfObjectsFound"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="PlatformPage.html"><param name="Name" value="Platform"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html#a68f039816d78ddbe3450ac675588dec3"><param name="Name" value="ProductRevisionMajor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html#a97fd0e9a305719bdce60b86bf8ab8556"><param name="Name" value="ProductRevisionMinor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html#a4e5da4e73a9938f37dd9eb2f50683b30"><param name="Name" value="ProductType"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#ac93c20688692a159be581858cab49af8"><param name="Name" value="RangeData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a40e26bfec3c35c304996c9e46d00d67b"><param name="Name" value="RangeMaxMilliMeter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#ab17dcba246938601dbd2129250017f5d"><param name="Name" value="RangeMilliMeter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#ac0aa476697cc1694e11d4c0a0079c936"><param name="Name" value="RangeMinMilliMeter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="RangeStatusPage.html"><param name="Name" value="RangeStatus"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a8760f6fa0fecc4102e71821def533890"><param name="Name" value="RangeStatus"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a8760f6fa0fecc4102e71821def533890"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a8d5479c0798bc39e6f183a0281a6f494"><param name="Name" value="SigmaMilliMeter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a128344cccdf3a852889227ff0396d9cf"><param name="Name" value="SignalRateRtnMegaCps"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#a62e98fe9d13a539952ef21f14d86d88e"><param name="Name" value="StreamCount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#ad3797f10ec2f37bf17dad3058af08676"><param name="Name" value="TimeStamp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html#a9428f4744fcafc5091355dbaf6bb89f3"><param name="Name" value="TopLeftX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html#a63b5fdbd15641dab201a4f7f7cabe8df"><param name="Name" value="TopLeftY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html"><param name="Name" value="VL53LX Calibration Functions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__globaldefine__group.html"><param name="Name" value="VL53LX Defines"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__group.html"><param name="Name" value="VL53LX Function Definition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__general__group.html"><param name="Name" value="VL53LX General Functions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__init__group.html"><param name="Name" value="VL53LX Init Functions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__measurement__group.html"><param name="Name" value="VL53LX Measurement Functions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__parameters__group.html"><param name="Name" value="VL53LX Parameters Functions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__ROI__group.html"><param name="Name" value="VL53LX ROI Functions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#aa3801482477f660fbdd7853ec6f83c51"><param name="Name" value="VL53LXDevDataGet"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#ae251aa11ef1022addb7643c82205ac05"><param name="Name" value="VL53LXDevDataSet"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#aabdaba5ed48bd8561abaa9f41a7f3ffe"><param name="Name" value="VL53LXDevStructGetLLDriverHandle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#aaddf163ccf43cc01afdcbf71fa8b28e0"><param name="Name" value="VL53LXDevStructGetLLResultsHandle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__globaldefine__group.html#ga4356b5f4fd2a64bda6d66f769f26d350"><param name="Name" value="VL53LX_ADDITIONAL_CALIBRATION_DATA_STRUCT_VERSION"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__AdditionalData__t.html"><param name="Name" value="VL53LX_AdditionalData_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__globaldefine__group.html#ga68a075e140fb7a82fac27ec99d808e72"><param name="Name" value="VL53LX_AdditionalData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__globaldefine__group.html#ga68a075e140fb7a82fac27ec99d808e72"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a23e0129e0d6c38bd54e1faf3a8a89e68"><param name="Name" value="VL53LX_BOOT_COMPLETION_POLLING_TIMEOUT_MS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a613105ca4210a255f47a7d32bcf438b9"><param name="Name" value="VL53LX_BYTES_PER_DWORD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a909ab26afbd88d3e05476167c2fb0f8f"><param name="Name" value="VL53LX_BYTES_PER_WORD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__globaldefine__group.html#ga72f95286573522192e17b10d44a47ff5"><param name="Name" value="VL53LX_CALIBRATION_DATA_STRUCT_VERSION"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#a9c0ad6708f261e3fb4de53545d7739d8"><param name="Name" value="add_off_cal_data"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#ad85465c5aec01936867677bc1416a926"><param name="Name" value="algo__xtalk_cpo_HistoMerge_kcps"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#ab6f33c6442d69ce066ef9cd2211539c2"><param name="Name" value="cal_peak_rate_map"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#ae3b27a9c15d877c3da308b46e62cffb6"><param name="Name" value="customer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#a295085f21944a3c5b082a320f0c02edd"><param name="Name" value="gain_cal"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#ab3b737ef573abb4138acadfae326d7ae"><param name="Name" value="optical_centre"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#aa7b8203cd12be71363270bcf25cc2942"><param name="Name" value="per_vcsel_cal_data"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#a90536c46106e69fb7a0507fb2158739e"><param name="Name" value="struct_version"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html"><param name="Name" value="VL53LX_CalibrationData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#af6992e6b2e172d5630d8414a4859833b"><param name="Name" value="xtalkhisto"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__measurement__group.html#gafd894d204fb11d174af9a2733366fb31"><param name="Name" value="VL53LX_ClearInterruptAndStartMeasurement"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a926ce3aa4ac9894168bc02af68f3ecf2"><param name="Name" value="VL53LX_CommsClose"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a87bf6445c88c1f135dff42952221a4f0"><param name="Name" value="VL53LX_CommsInitialise"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a890fdd7c8aadc37483dd08a6a746845d"><param name="Name" value="algo__crosstalk_compensation_plane_offset_kcps"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a4884c3bc7fceb38e9e21bc095fd4e4b5"><param name="Name" value="algo__crosstalk_compensation_x_plane_gradient_kcps"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a5858e37895d1dd7749a22c10e15e2861"><param name="Name" value="algo__crosstalk_compensation_y_plane_gradient_kcps"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#ae46c8815701f9973eb52809a82c2021f"><param name="Name" value="algo__part_to_part_range_offset_mm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a119908296537ccedef14284a5954fbd1"><param name="Name" value="global_config__ref_en_start_select"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#abeffe91c045aa4e5ee79bc1bb5a9131d"><param name="Name" value="global_config__spad_enables_ref_0"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a32958396aed677cb74d904b59f94b961"><param name="Name" value="global_config__spad_enables_ref_1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a16c8b6c304556a16fae56d44111115ce"><param name="Name" value="global_config__spad_enables_ref_2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#aafa7633e9e54878779dbfeb46c178754"><param name="Name" value="global_config__spad_enables_ref_3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a5c9039f2c878b8d979c91f6a2629ff7c"><param name="Name" value="global_config__spad_enables_ref_4"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#aad206003ab18c2ce5fe87b6de34e1f85"><param name="Name" value="global_config__spad_enables_ref_5"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a671fbf681de4ab927eac2cf87ca405f0"><param name="Name" value="mm_config__inner_offset_mm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#ac8aa6a2ce75806ff44dd60af462edde1"><param name="Name" value="mm_config__outer_offset_mm"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a378f8a15fd7ba60251d66edf607b98c7"><param name="Name" value="ref_spad_char__total_rate_target_mcps"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#ae40b62d2ab4dec648b2bcb1d20af0661"><param name="Name" value="ref_spad_man__num_requested_ref_spads"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html"><param name="Name" value="VL53LX_CustomerNvmManaged_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a9f718c902cc4a7e58a01ca35b59d98eb"><param name="Name" value="ref_spad_man__ref_location"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#a6282e5786d7384e27f6e9a5091fdd403"><param name="Name" value="VL53LX_DEV"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__DistanceModes__group.html#ga951987fe6be703ed09b7fa08cf9b1463"><param name="Name" value="VL53LX_DISTANCEMODE_LONG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__DistanceModes__group.html#ga11c2654259fee3a0808deaf004f48104"><param name="Name" value="VL53LX_DISTANCEMODE_MEDIUM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__DistanceModes__group.html#gac8906ccb1d7af5f92d6279055858c52e"><param name="Name" value="VL53LX_DISTANCEMODE_SHORT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__init__group.html#gaf6e1ec4efe991f1f510c8501cf863223"><param name="Name" value="VL53LX_DataInit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html"><param name="Name" value="VL53LX_DevData_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html"><param name="Name" value="VL53LX_DevData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html#af3c05b4cd67450314918f5f9fab863d6"><param name="Name" value="CurrentParameters"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html"><param name="Name" value="VL53LX_DevData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html#aa0d3adc918f1bbf8e58c0117813f2f07"><param name="Name" value="LLData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html"><param name="Name" value="VL53LX_DevData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html#a7c8899d7e6607eb7d5396686b7f8a2a0"><param name="Name" value="llresults"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html"><param name="Name" value="VL53LX_Dev_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html"><param name="Name" value="VL53LX_Dev_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#aba1cefea9cfae6112be1c53f072c1da0"><param name="Name" value="Data"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html"><param name="Name" value="VL53LX_Dev_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#a322dbbb0f6498a38d63b548ae0b3b9eb"><param name="Name" value="comms_speed_khz"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html"><param name="Name" value="VL53LX_Dev_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#acff3a52ff8211257e4207e2e9355a6dc"><param name="Name" value="comms_type"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html"><param name="Name" value="VL53LX_Dev_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#a77f1e93168abe64bd2e5971f1ae24581"><param name="Name" value="i2c_slave_address"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html"><param name="Name" value="VL53LX_Dev_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#abae1c173af644f8f77c3f7f85ba1f57d"><param name="Name" value="new_data_ready_poll_duration_ms"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html"><param name="Name" value="VL53LX_DeviceInfo_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html"><param name="Name" value="VL53LX_DeviceInfo_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html#a68f039816d78ddbe3450ac675588dec3"><param name="Name" value="ProductRevisionMajor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html"><param name="Name" value="VL53LX_DeviceInfo_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html#a97fd0e9a305719bdce60b86bf8ab8556"><param name="Name" value="ProductRevisionMinor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html"><param name="Name" value="VL53LX_DeviceInfo_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceInfo__t.html#a4e5da4e73a9938f37dd9eb2f50683b30"><param name="Name" value="ProductType"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceParameters__t.html"><param name="Name" value="VL53LX_DeviceParameters_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceParameters__t.html"><param name="Name" value="VL53LX_DeviceParameters_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceParameters__t.html#ab95ed15f1976863abc07c7f2c717acee"><param name="Name" value="DistanceMode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceParameters__t.html"><param name="Name" value="VL53LX_DeviceParameters_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DeviceParameters__t.html#a6ce7732d0d5c34749e167ed4929a786b"><param name="Name" value="MeasurementTimingBudgetMicroSeconds"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__DistanceModes__group.html#gada4f026096ed172a4ddda00a83313a9a"><param name="Name" value="VL53LX_DistanceModes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga6bcc7644b1096cf6d6e53e432581ed5b"><param name="Name" value="VL53LX_ERROR_BUFFER_TOO_SMALL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga26fe06ff034567f492cab1fe2b0567de"><param name="Name" value="VL53LX_ERROR_CALIBRATION_WARNING"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gade11ffa977c009684b5d2ca855628cab"><param name="Name" value="VL53LX_ERROR_COMMS_BUFFER_TOO_SMALL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga09e64161fd6d33c558ef566916ec405f"><param name="Name" value="VL53LX_ERROR_CONTROL_INTERFACE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gacec2e94d3670f67f4e4d0c72974cc5f9"><param name="Name" value="VL53LX_ERROR_DIVISION_BY_ZERO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gabd4917292bd1f2e93180c2d3ce29b550"><param name="Name" value="VL53LX_ERROR_GPH_ID_CHECK_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gadb48e4aa574685bd397d187d468298c6"><param name="Name" value="VL53LX_ERROR_GPH_SYNC_CHECK_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga1254b68f85241a12798c2f992be3919b"><param name="Name" value="VL53LX_ERROR_GPIO_FUNCTIONALITY_NOT_SUPPORTED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga5b24b8848d1fb8362e5d387dd5e057b7"><param name="Name" value="VL53LX_ERROR_GPIO_NOT_EXISTING"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga7edc3494341508e537e46eec3248a517"><param name="Name" value="VL53LX_ERROR_INVALID_COMMAND"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga4aa2c3fb8b99008bb04c0eec0abfa5ab"><param name="Name" value="VL53LX_ERROR_INVALID_PARAMS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga87c116877eacf0b714531fc08c02f1ee"><param name="Name" value="VL53LX_ERROR_MIN_CLIPPED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga86632d4854d94441b4b4c37285ca2e6a"><param name="Name" value="VL53LX_ERROR_MODE_NOT_SUPPORTED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gaf5277f02b565cc15e48ceb8aaf37596f"><param name="Name" value="VL53LX_ERROR_NONE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gaa97bc812244c1a86a8b187b65284adc1"><param name="Name" value="VL53LX_ERROR_NOT_IMPLEMENTED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga6c1cead8d48d3abdd6d26dc721ccfe15"><param name="Name" value="VL53LX_ERROR_NOT_SUPPORTED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga296c21980f215db710df9e29ab6be0bc"><param name="Name" value="VL53LX_ERROR_OFFSET_CAL_NO_SAMPLE_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga1e00579295ade6ba1dbcb8387fe2b00c"><param name="Name" value="VL53LX_ERROR_OFFSET_CAL_NO_SPADS_ENABLED_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga24936039a62d73bb7d51eebb63902e24"><param name="Name" value="VL53LX_ERROR_PLATFORM_SPECIFIC_START"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga868821a288d369feecce0114ade347b0"><param name="Name" value="VL53LX_ERROR_RANGE_ERROR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga9d889c98e71ecd2908b640340ccef7f2"><param name="Name" value="VL53LX_ERROR_REF_SPAD_INIT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga0cc2ad453359004535d17e2f09f2391f"><param name="Name" value="VL53LX_ERROR_STREAM_COUNT_CHECK_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga1ba0942e3adc59442907655f5fbfb967"><param name="Name" value="VL53LX_ERROR_TIME_OUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gae78ae8c669799f5ea479f1f1ca0351c7"><param name="Name" value="VL53LX_ERROR_TUNING_PARM_KEY_MISMATCH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga70257fa6cc064d9c25cf69e3f552ed7b"><param name="Name" value="VL53LX_ERROR_UNDEFINED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga2ea9492041f7d1e60196ec61683fdd1b"><param name="Name" value="VL53LX_ERROR_XTALK_EXTRACTION_NO_SAMPLE_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga488317567be486bf9f85a99a2bdd3724"><param name="Name" value="VL53LX_ERROR_XTALK_EXTRACTION_SIGMA_LIMIT_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gab2d0f4fb1da8ade547e6f546e5b95810"><param name="Name" value="VL53LX_ERROR_ZONE_CAL_NO_SAMPLE_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gac3d91ca2a1bfc91be1c6ee0bb836ff8d"><param name="Name" value="VL53LX_ERROR_ZONE_GPH_ID_CHECK_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga978ca2104b6cc4e6efe89f0481d655e4"><param name="Name" value="VL53LX_ERROR_ZONE_STREAM_COUNT_CHECK_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga6faa6b53bf7affad63112df169608819"><param name="Name" value="VL53LX_Error"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga09d6fe2309faaebfccaad658fdb0edfc"><param name="Name" value="VL53LX_FIXPOINT08TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga808469fe5cac9b14ab00108cef76dcbd"><param name="Name" value="VL53LX_FIXPOINT102TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gac77f21754408e0a0d5bb49ae39b6478b"><param name="Name" value="VL53LX_FIXPOINT142TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga2ceb99a59ab2e6aeecd233398e91eb3d"><param name="Name" value="VL53LX_FIXPOINT160TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gad09de362907fb03c8e9d9e03138d0815"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT08"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga28ad457940bc8400ea8b6bfcea34bc7b"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT102"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga090cbd93227007a6d615315125eb99f4"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT142"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gaca7d5306b4122cb610c93c55a9de606d"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT160"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga9b06b8d73114aff24b6edbf859c3bd66"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT313"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga43ee33f7cb03641ed3248eaa1f3cd8bc"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT412"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gae0f5b042006d7faf7ecae6a8db02f53f"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT44"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga4051a28469bdbba3972abff74a33f067"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT53"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga027bfb9b05f6bf8a194049d4f1aa46d6"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT72"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gad64f1630f348da1093b39a1ee9c2ee06"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT88"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga96a726bd0d435a23aef1fdbe3cc59bbd"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT97"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga828e66366e71be17af281d6855ad8330"><param name="Name" value="VL53LX_FIXPOINT313TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga5a340561bbd2a859de37879da07b8b93"><param name="Name" value="VL53LX_FIXPOINT412TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga6ee51298d510ce74395b4c56b4c48f74"><param name="Name" value="VL53LX_FIXPOINT44TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga3431420ec422fc40b5e986702615bf22"><param name="Name" value="VL53LX_FIXPOINT53TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga8b3e5cae123089e4fe428e0715196c95"><param name="Name" value="VL53LX_FIXPOINT72TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gab3324893a39c8949550dc625cde7725c"><param name="Name" value="VL53LX_FIXPOINT88TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gaa0655db41fd92590b6b751ccac3e5eae"><param name="Name" value="VL53LX_FIXPOINT97TOFIXPOINT1616"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#addf532dac437c7f147483e31580c8434"><param name="Name" value="VL53LX_GAIN_FACTOR__HISTOGRAM_DEFAULT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#afce832602c1dfc2518fe3811d4c84470"><param name="Name" value="VL53LX_GAIN_FACTOR__STANDARD_DEFAULT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga116bb2f99c536de522ae8ac43ae882ce"><param name="Name" value="VL53LX_GETARRAYPARAMETERFIELD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga777ea43efd464ac52347ee18862381a9"><param name="Name" value="VL53LX_GETDEVICESPECIFICPARAMETER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gaa68d375beb0d337005684983de42329e"><param name="Name" value="VL53LX_GETPARAMETERFIELD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__measurement__group.html#gaef780612fef2eca4ba15912688041e9a"><param name="Name" value="VL53LX_GetAdditionalData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga30a10d04970e28d985c3478f2ce38a94"><param name="Name" value="VL53LX_GetCalibrationData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__general__group.html#gae0f3cb7cbc124bcb8c26f3713c681077"><param name="Name" value="VL53LX_GetDeviceInfo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__parameters__group.html#ga5745508b7854acb3a4c5330cdccb1d0e"><param name="Name" value="VL53LX_GetDistanceMode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__measurement__group.html#ga976318c62e15433979330d999eda2085"><param name="Name" value="VL53LX_GetMeasurementDataReady"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__parameters__group.html#gaf66406379e6277136561fb44fa9b7801"><param name="Name" value="VL53LX_GetMeasurementTimingBudgetMicroSeconds"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__measurement__group.html#gad46055cfc36fa78bd18656fdb2778f40"><param name="Name" value="VL53LX_GetMultiRangingData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#gaf9ccf884154ca73e8d3e31458926fc02"><param name="Name" value="VL53LX_GetOpticalCenter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__general__group.html#gaa8a43ff4ea0cb04568a130320a6c3e5b"><param name="Name" value="VL53LX_GetProductRevision"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a2c3371f6c48c80243045ead46f98e8ac"><param name="Name" value="VL53LX_GetTickCount"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a7e6d5d42e3c7d98d04f28d89ec450821"><param name="Name" value="VL53LX_GetTimerFrequency"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#abd7210aa29ac34e66cc9eaaecc8ee9f0"><param name="Name" value="VL53LX_GetTimerValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#gae5bffb203adc06a463979c1338273c89"><param name="Name" value="VL53LX_GetTuningParameter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__general__group.html#ga4e10890644e6f1e0aa04b241b1b7710d"><param name="Name" value="VL53LX_GetUID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__ROI__group.html#gaf5962474953a1b6826797996c08d3b51"><param name="Name" value="VL53LX_GetUserROI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__general__group.html#ga6b88a610e8b0cf9f374287ab76862a70"><param name="Name" value="VL53LX_GetVersion"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga301c02cacb3c04d9c0719af804c81d3f"><param name="Name" value="VL53LX_GetXTalkCompensationEnable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#ac20b771e321f95d2a6039495445ddca4"><param name="Name" value="VL53LX_GpioCommsSelect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#ac6042aa65c9f186312e4e3daead292ec"><param name="Name" value="VL53LX_GpioGetValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#afc05d7593eb14a239b8b9484c2f2a328"><param name="Name" value="VL53LX_GpioInterruptDisable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a5e54d1d2b9f374ac5915596eecfbb73e"><param name="Name" value="VL53LX_GpioInterruptEnable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a988dade9027f7f1565f6bbc0474c793e"><param name="Name" value="VL53LX_GpioPowerEnable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a5504e1c5d49fdf8b9283fa916126b6b0"><param name="Name" value="VL53LX_GpioSetMode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a12873acf3a3aa3ded8b0ecd1ffc18ecf"><param name="Name" value="VL53LX_GpioSetValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a7c42d58b54178754af84e266500f87c9"><param name="Name" value="VL53LX_GpioXshutdown"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__globaldefine__group.html#ga458402f4023d8148c62cd3904bbae907"><param name="Name" value="VL53LX_IMPLEMENTATION_VER_MAJOR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__globaldefine__group.html#ga94b1192391491891f9d22d9c3d9eadc9"><param name="Name" value="VL53LX_IMPLEMENTATION_VER_MINOR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__globaldefine__group.html#gaad697f22c23da72e36d8225df8326bd4"><param name="Name" value="VL53LX_IMPLEMENTATION_VER_REVISION"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__globaldefine__group.html#gac2fe85ba6fd40029cb363c52e20b5ea9"><param name="Name" value="VL53LX_IMPLEMENTATION_VER_SUB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#afaed94fdae8a92a8e36acacccaef4cd4"><param name="Name" value="VL53LX_IPP_API"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gaf2ab2cf32083b4da4ec323c641a4051c"><param name="Name" value="VL53LX_MAKEUINT16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#afcb4a95b05010edd8f6a75bb22bbfbf4"><param name="Name" value="VL53LX_MAX_RANGE_RESULTS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#ad6aaf562ccf597f3c82752bb35e62dbb"><param name="Name" value="VL53LX_MAX_STRING_LENGTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a5d81a732813b2eff13adbfbc031f5f8c"><param name="Name" value="VL53LX_MAX_USER_ZONES"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html"><param name="Name" value="VL53LX_MultiRangingData_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html"><param name="Name" value="VL53LX_MultiRangingData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#aac91060df9c976133859d78b178d0fb5"><param name="Name" value="EffectiveSpadRtnCount"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html"><param name="Name" value="VL53LX_MultiRangingData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#aefa7777634eb203f571f39c441262153"><param name="Name" value="HasXtalkValueChanged"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html"><param name="Name" value="VL53LX_MultiRangingData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#a4a7b0ddcf3f00ec276c9f3112f04e9c4"><param name="Name" value="NumberOfObjectsFound"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html"><param name="Name" value="VL53LX_MultiRangingData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#ac93c20688692a159be581858cab49af8"><param name="Name" value="RangeData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html"><param name="Name" value="VL53LX_MultiRangingData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#a62e98fe9d13a539952ef21f14d86d88e"><param name="Name" value="StreamCount"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html"><param name="Name" value="VL53LX_MultiRangingData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__MultiRangingData__t.html#ad3797f10ec2f37bf17dad3058af08676"><param name="Name" value="TimeStamp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__OffsetCorrectionModes__group.html#gafb0ebf3ae22383ddbec4e91f108190c1"><param name="Name" value="VL53LX_OFFSETCORRECTIONMODE_PERVCSEL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__OffsetCorrectionModes__group.html#gad7bdb399bc1cc1dfd6dc5510c5a63142"><param name="Name" value="VL53LX_OFFSETCORRECTIONMODE_STANDARD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#add80e43ae1f4e3bf1f02ddd7e6a824cc"><param name="Name" value="VL53LX_OFFSET_CAL_MAX_PRE_PEAK_RATE_MCPS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a16a4c28d83c18eeaaba77ada4ecda309"><param name="Name" value="VL53LX_OFFSET_CAL_MAX_SIGMA_MM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#adbe815d79b33edc772986fff023a6cd2"><param name="Name" value="VL53LX_OFFSET_CAL_MIN_EFFECTIVE_SPADS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__OffsetCorrectionModes__group.html#ga188746d8ce505049ce3c07bb048011d1"><param name="Name" value="VL53LX_OffsetCorrectionModes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a7da7b632881a104b7b6c7765c8413e50"><param name="Name" value="VL53LX_POLLING_DELAY_MS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga9ec2303488dffc38fe107712b1239354"><param name="Name" value="VL53LX_PerformOffsetPerVcselCalibration"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#gad5483ca73957b93f7306e46f127dfe5a"><param name="Name" value="VL53LX_PerformOffsetSimpleCalibration"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga4f9f6779095183c67c2e1f8ef2a70e07"><param name="Name" value="VL53LX_PerformOffsetZeroDistanceCalibration"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga4d1cc4ed94cd08dc30b9653ba5e160ff"><param name="Name" value="VL53LX_PerformRefSpadManagement"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga35da5efdc6c7790541017ed1ed33b61d"><param name="Name" value="VL53LX_PerformXTalkCalibration"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga5422eeff85dc3d6783409912172ca52f"><param name="Name" value="VL53LX_RANGESTATUS_HARDWARE_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga67ba506a869424bb130675d2dcca4556"><param name="Name" value="VL53LX_RANGESTATUS_MIN_RANGE_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#gad43746bffe516e014283b276436e71f7"><param name="Name" value="VL53LX_RANGESTATUS_NONE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#gaa64f88d340a3de4c7d000647d8f47fdc"><param name="Name" value="VL53LX_RANGESTATUS_OUTOFBOUNDS_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga1d62089722b3f75c0281d86fd288cf4f"><param name="Name" value="VL53LX_RANGESTATUS_PROCESSING_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga2a9197011a223b8ac0b2fa03c8ece5b1"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_INVALID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga3add01513b60234b04f826ec2b96fb75"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_VALID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#gafad2f5998e33df0bdd65d92e38861a3d"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_VALID_MERGED_PULSE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#gac509d65d997a8a77864b61cf46a9c3bf"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_VALID_MIN_RANGE_CLIPPED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga943dca2ae27db588434df8ef46c322df"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_VALID_NO_WRAP_CHECK_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga9fc1f8de060e798349ef7bf7f038027d"><param name="Name" value="VL53LX_RANGESTATUS_SIGMA_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga8bd08bbea95f31580c902d9bb713d863"><param name="Name" value="VL53LX_RANGESTATUS_SIGNAL_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#gab68c8e89002ced9b7aebadc0bc120c4d"><param name="Name" value="VL53LX_RANGESTATUS_SYNCRONISATION_INT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#gac3ce060a65c337e79b61206c690895a8"><param name="Name" value="VL53LX_RANGESTATUS_TARGET_PRESENT_LACK_OF_SIGNAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga9e380a0f4bb30a36ea9206839fc0e1ab"><param name="Name" value="VL53LX_RANGESTATUS_WRAP_TARGET_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__RangeStatus__group.html#ga4bc0866c36afb07046fe421a98d37faf"><param name="Name" value="VL53LX_RANGESTATUS_XTALK_SIGNAL_FAIL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#ac81240eea2bb807988217dca731f1fca"><param name="Name" value="VL53LX_RANGE_COMPLETION_POLLING_TIMEOUT_MS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a34acc303cff550e8164c018818e0a773"><param name="Name" value="VL53LX_RdByte"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#aa5d123e781d54adf257eab306418e196"><param name="Name" value="VL53LX_RdDWord"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#ad051530962cab6ed185c756a8f8d0baf"><param name="Name" value="VL53LX_RdWord"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a53cdae3867565f8e1b4ba694d29bf710"><param name="Name" value="VL53LX_ReadMulti"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga6ad625d22f7a50cabc67794f6f59be7c"><param name="Name" value="VL53LX_SETARRAYPARAMETERFIELD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#gae015403ad7ac36fe375e55d7f2b5cba1"><param name="Name" value="VL53LX_SETDEVICESPECIFICPARAMETER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__GeneralMacro__group.html#ga6bb7ead0cc9b6f89f3c0171bb543b4de"><param name="Name" value="VL53LX_SETPARAMETERFIELD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Smudge__Mode__group.html#ga4ebfcd5bca502e1dccf295539c3a5a18"><param name="Name" value="VL53LX_SMUDGE_CORRECTION_CONTINUOUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Smudge__Mode__group.html#gae9fcf921803ae9bc340c2587264f8796"><param name="Name" value="VL53LX_SMUDGE_CORRECTION_DEBUG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Smudge__Mode__group.html#ga5d2b0973074c891efa570780b82c2e84"><param name="Name" value="VL53LX_SMUDGE_CORRECTION_NONE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Smudge__Mode__group.html#ga45bd9b1920c9db369ef74958e43e2703"><param name="Name" value="VL53LX_SMUDGE_CORRECTION_SINGLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga1b99482b11f829e475c658153335b9a6"><param name="Name" value="VL53LX_SetCalibrationData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__init__group.html#ga45adfe07560f6865f57f188986a6504f"><param name="Name" value="VL53LX_SetDeviceAddress"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__parameters__group.html#ga2120ed92d227d907a253f8707fdda022"><param name="Name" value="VL53LX_SetDistanceMode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__parameters__group.html#ga15738c7e4b1c0e70b717580d30bec277"><param name="Name" value="VL53LX_SetMeasurementTimingBudgetMicroSeconds"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#gaa3d8006bfd7c81049a51b43dacea8810"><param name="Name" value="VL53LX_SetOffsetCorrectionMode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga9b01c8231ca6b15de191b2cc537f64eb"><param name="Name" value="VL53LX_SetTuningParameter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__ROI__group.html#ga6660ebead98d8135e30617e6c6ec98f2"><param name="Name" value="VL53LX_SetUserROI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga5c4c63a8ca0d132da96213b6c54a1582"><param name="Name" value="VL53LX_SetXTalkCompensationEnable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__Calibration__group.html#ga3bc968e46f425f5e4c37ef52774a728e"><param name="Name" value="VL53LX_SmudgeCorrectionEnable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Smudge__Mode__group.html#ga8ce34498ee5cf35e69911e7735b876ae"><param name="Name" value="VL53LX_SmudgeCorrectionModes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__measurement__group.html#gab40e19da0768eeacfba942e8d1cb9998"><param name="Name" value="VL53LX_StartMeasurement"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__measurement__group.html#gac6a3ab3504cce1b8233839186b6bd9bf"><param name="Name" value="VL53LX_StopMeasurement"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a44b83096c558910026867190bc7787d2"><param name="Name" value="VL53LX_TEST_COMPLETION_POLLING_TIMEOUT_MS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a7b61d5c6a62818c3e316e6ad7adb7012"><param name="Name" value="VL53LX_TUNINGPARM_PRIVATE_PAGE_BASE_ADDRESS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#aee5e7c20282d5d408693b2fce079441e"><param name="Name" value="VL53LX_TUNINGPARM_PUBLIC_PAGE_BASE_ADDRESS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#af8c94fb9a3dc3038f66c3303f4e5baab"><param name="Name" value="AmbientRateRtnMegaCps"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a24e1fe993eabeb53971154080cb134bf"><param name="Name" value="ExtendedRange"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a40e26bfec3c35c304996c9e46d00d67b"><param name="Name" value="RangeMaxMilliMeter"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#ab17dcba246938601dbd2129250017f5d"><param name="Name" value="RangeMilliMeter"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#ac0aa476697cc1694e11d4c0a0079c936"><param name="Name" value="RangeMinMilliMeter"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a8760f6fa0fecc4102e71821def533890"><param name="Name" value="RangeStatus"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a8d5479c0798bc39e6f183a0281a6f494"><param name="Name" value="SigmaMilliMeter"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html"><param name="Name" value="VL53LX_TargetRangeData_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__TargetRangeData__t.html#a128344cccdf3a852889227ff0396d9cf"><param name="Name" value="SignalRateRtnMegaCps"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html"><param name="Name" value="VL53LX_UserRoi_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html"><param name="Name" value="VL53LX_UserRoi_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html#a9b2b32aa4650f2e050b9031cbc75277c"><param name="Name" value="BotRightX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html"><param name="Name" value="VL53LX_UserRoi_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html#a14af6385eb3db182c5f5094f04fa3c63"><param name="Name" value="BotRightY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html"><param name="Name" value="VL53LX_UserRoi_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html#a9428f4744fcafc5091355dbaf6bb89f3"><param name="Name" value="TopLeftX"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html"><param name="Name" value="VL53LX_UserRoi_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__UserRoi__t.html#a63b5fdbd15641dab201a4f7f7cabe8df"><param name="Name" value="TopLeftY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html"><param name="Name" value="VL53LX_Version_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html"><param name="Name" value="VL53LX_Version_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html#a30585a7fd509beae219b5cab51bfec7b"><param name="Name" value="build"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html"><param name="Name" value="VL53LX_Version_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html#aeb360cafa082d861c77426c97f5fb526"><param name="Name" value="major"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html"><param name="Name" value="VL53LX_Version_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html#aaad98778e344dee0ad2d777aa7b3287e"><param name="Name" value="minor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html"><param name="Name" value="VL53LX_Version_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html#a17241edf3ff384b600b363323231b005"><param name="Name" value="revision"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gabbeba880ecdf0101e5a3dc1e9e4dc998"><param name="Name" value="VL53LX_WARNING_OFFSET_CAL_MISSING_SAMPLES"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga55ac72a6a33b0f968796542525c71e52"><param name="Name" value="VL53LX_WARNING_OFFSET_CAL_RATE_TOO_HIGH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gae234bd7c6f29755ce8861a0b2eb01db5"><param name="Name" value="VL53LX_WARNING_OFFSET_CAL_SIGMA_TOO_HIGH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga19e91142c4e109e69c1e4e12b01bb33c"><param name="Name" value="VL53LX_WARNING_OFFSET_CAL_SPAD_COUNT_TOO_LOW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga17d4dbd3a6882608c072b44ef351081c"><param name="Name" value="VL53LX_WARNING_REF_SPAD_CHAR_NOT_ENOUGH_SPADS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gab261866bb874faa74e5ecb795984eea3"><param name="Name" value="VL53LX_WARNING_REF_SPAD_CHAR_RATE_TOO_HIGH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga08aa296b284a87aeeee5ac0708acee41"><param name="Name" value="VL53LX_WARNING_REF_SPAD_CHAR_RATE_TOO_LOW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gab6b65b7f782245aa8a968dbacf3da32d"><param name="Name" value="VL53LX_WARNING_XTALK_MISSING_SAMPLES"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga3326d9b900a3b03f68fc0d99b2263d93"><param name="Name" value="VL53LX_WARNING_XTALK_NO_SAMPLES_FOR_GRADIENT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga8707eab4ff749521dcb50b0ff1c0a716"><param name="Name" value="VL53LX_WARNING_XTALK_SIGMA_LIMIT_FOR_GRADIENT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#gac1ee9d8e3c4e005c9d662d9a6d01d31e"><param name="Name" value="VL53LX_WARNING_ZONE_CAL_MISSING_SAMPLES"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga5b08673a9620df628494258c7211c2b1"><param name="Name" value="VL53LX_WARNING_ZONE_CAL_RATE_TOO_HIGH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__define__Error__group.html#ga8d91dcad662dd5d8bd2bb2f0897da5c8"><param name="Name" value="VL53LX_WARNING_ZONE_CAL_SIGMA_TOO_HIGH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__init__group.html#ga828cdc3b4c859779a02d717e93ec1e85"><param name="Name" value="VL53LX_WaitDeviceBooted"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__VL53LX__measurement__group.html#ga5f74d43ed22d3f6e43815d6ec824b675"><param name="Name" value="VL53LX_WaitMeasurementDataReady"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a9fc5b886afc5090660e2cdcf438f10cd"><param name="Name" value="VL53LX_WaitMs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a308bbd4abbfcaac856cb5f9b335259a3"><param name="Name" value="VL53LX_WaitUs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#abca25f702af2411d64f3afe46aebbfe7"><param name="Name" value="VL53LX_WaitValueMaskEx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a18f5514cded5c78318d3b1256276e514"><param name="Name" value="VL53LX_WrByte"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a6eeb635a188b425531b379be6fbd3e76"><param name="Name" value="VL53LX_WrDWord"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a9bbf9bb3a5a8a5178bef4610e40e8e51"><param name="Name" value="VL53LX_WrWord"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#aa8e7d5fb3e6a577ae9cdabaecbdac343"><param name="Name" value="VL53LX_WriteMulti"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#ab21d7490fa6f70a101252a7c4333c9d5"><param name="Name" value="VL53LX_XTALK_EXTRACT_MAX_SIGMA_MM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#af88e7e5ba29457a65c77e68b188115ae"><param name="Name" value="VL53LX_ZONE_CAL_MAX_PRE_PEAK_RATE_MCPS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#aba7b4a646e62c1795889dea132e0aa52"><param name="Name" value="VL53LX_ZONE_CAL_MAX_SIGMA_MM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__ipp_8h.html#ab8d9359bf3a047a851d01985d4ff9c01"><param name="Name" value="VL53LX_ipp_hist_ambient_dmax"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__ipp_8h.html#a5aa2f01bc6ee4d4bbf22a746cda62b2d"><param name="Name" value="VL53LX_ipp_hist_process_data"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__ipp_8h.html#a0a30caa46044712aa9f535539ef71b2b"><param name="Name" value="VL53LX_ipp_xtalk_calibration_process_data"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__init_8h.html#aba141ba112f2f8c242423dac59625149"><param name="Name" value="VL53LX_platform_init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__init_8h.html#a7fb55f75ecca0af5355fbbdecf459e00"><param name="Name" value="VL53LX_platform_terminate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#aff1dba97ebc9b34f55b2320ce58130d9"><param name="Name" value="WARN_OVERRIDE_STATUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#aa04b831714c5019aab1a35b6710462fb"><param name="Name" value="_LOG_FUNCTION_END"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#ac229b838e74d9a8ec587ddf1a7005e4a"><param name="Name" value="_LOG_FUNCTION_END_FMT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#a04661915ba935d13648ff8b9bc5002cd"><param name="Name" value="_LOG_FUNCTION_START"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#a9b4227d2b33f48483b51fbf53cb4a22d"><param name="Name" value="_LOG_GET_TRACE_FUNCTIONS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#a27b78f13b0fb1989bc0d2125815cee49"><param name="Name" value="_LOG_SET_TRACE_FUNCTIONS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#a2b4d5a00a78ae5348f435bc955357eb5"><param name="Name" value="_LOG_STRING_BUFFER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#aa691b208c68b12440939073c8943d698"><param name="Name" value="_LOG_TRACE_PRINT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#a9c0ad6708f261e3fb4de53545d7739d8"><param name="Name" value="add_off_cal_data"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a890fdd7c8aadc37483dd08a6a746845d"><param name="Name" value="algo__crosstalk_compensation_plane_offset_kcps"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a4884c3bc7fceb38e9e21bc095fd4e4b5"><param name="Name" value="algo__crosstalk_compensation_x_plane_gradient_kcps"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a5858e37895d1dd7749a22c10e15e2861"><param name="Name" value="algo__crosstalk_compensation_y_plane_gradient_kcps"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#ae46c8815701f9973eb52809a82c2021f"><param name="Name" value="algo__part_to_part_range_offset_mm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#ad85465c5aec01936867677bc1416a926"><param name="Name" value="algo__xtalk_cpo_HistoMerge_kcps"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html#a30585a7fd509beae219b5cab51bfec7b"><param name="Name" value="build"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#ab6f33c6442d69ce066ef9cd2211539c2"><param name="Name" value="cal_peak_rate_map"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#a322dbbb0f6498a38d63b548ae0b3b9eb"><param name="Name" value="comms_speed_khz"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#acff3a52ff8211257e4207e2e9355a6dc"><param name="Name" value="comms_type"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#ae3b27a9c15d877c3da308b46e62cffb6"><param name="Name" value="customer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#af292e8c89b73d8d0af8a30c6122acce1"><param name="Name" value="do_division_s"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#adadd986b7db0ee4e1b2d797187bcc025"><param name="Name" value="do_division_u"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#a295085f21944a3c5b082a320f0c02edd"><param name="Name" value="gain_cal"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a119908296537ccedef14284a5954fbd1"><param name="Name" value="global_config__ref_en_start_select"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#abeffe91c045aa4e5ee79bc1bb5a9131d"><param name="Name" value="global_config__spad_enables_ref_0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a32958396aed677cb74d904b59f94b961"><param name="Name" value="global_config__spad_enables_ref_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a16c8b6c304556a16fae56d44111115ce"><param name="Name" value="global_config__spad_enables_ref_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#aafa7633e9e54878779dbfeb46c178754"><param name="Name" value="global_config__spad_enables_ref_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a5c9039f2c878b8d979c91f6a2629ff7c"><param name="Name" value="global_config__spad_enables_ref_4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#aad206003ab18c2ce5fe87b6de34e1f85"><param name="Name" value="global_config__spad_enables_ref_5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#a77f1e93168abe64bd2e5971f1ae24581"><param name="Name" value="i2c_slave_address"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#aa343fa3b3d06292b959ffdd4c4703b06"><param name="Name" value="int16_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#a32f2e37ee053cf2ce8ca28d1f74630e5"><param name="Name" value="int32_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#aef44329758059c91c76d334e8fc09700"><param name="Name" value="int8_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__DevData__t.html#a7c8899d7e6607eb7d5396686b7f8a2a0"><param name="Name" value="llresults"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html#aeb360cafa082d861c77426c97f5fb526"><param name="Name" value="major"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html#aaad98778e344dee0ad2d777aa7b3287e"><param name="Name" value="minor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a671fbf681de4ab927eac2cf87ca405f0"><param name="Name" value="mm_config__inner_offset_mm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#ac8aa6a2ce75806ff44dd60af462edde1"><param name="Name" value="mm_config__outer_offset_mm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Dev__t.html#abae1c173af644f8f77c3f7f85ba1f57d"><param name="Name" value="new_data_ready_poll_duration_ms"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#ab3b737ef573abb4138acadfae326d7ae"><param name="Name" value="optical_centre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#aa7b8203cd12be71363270bcf25cc2942"><param name="Name" value="per_vcsel_cal_data"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a378f8a15fd7ba60251d66edf607b98c7"><param name="Name" value="ref_spad_char__total_rate_target_mcps"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#ae40b62d2ab4dec648b2bcb1d20af0661"><param name="Name" value="ref_spad_man__num_requested_ref_spads"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CustomerNvmManaged__t.html#a9f718c902cc4a7e58a01ca35b59d98eb"><param name="Name" value="ref_spad_man__ref_location"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__Version__t.html#a17241edf3ff384b600b363323231b005"><param name="Name" value="revision"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#a90536c46106e69fb7a0507fb2158739e"><param name="Name" value="struct_version"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#a273cf69d639a59973b6019625df33e30"><param name="Name" value="uint16_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#a435d1572bf3f880d55459d9805097f62"><param name="Name" value="uint32_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#aaa5d1cd013383c889537491c3cfd9aad"><param name="Name" value="uint64_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#aba7bc1797add20fe3efdf37ced1182c5"><param name="Name" value="uint8_t"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gafd894d204fb11d174af9a2733366fb31"><param name="Name" value="VL53LX_ClearInterruptAndStartMeasurement"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gaf6e1ec4efe991f1f510c8501cf863223"><param name="Name" value="VL53LX_DataInit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gaef780612fef2eca4ba15912688041e9a"><param name="Name" value="VL53LX_GetAdditionalData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga30a10d04970e28d985c3478f2ce38a94"><param name="Name" value="VL53LX_GetCalibrationData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gae0f3cb7cbc124bcb8c26f3713c681077"><param name="Name" value="VL53LX_GetDeviceInfo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga5745508b7854acb3a4c5330cdccb1d0e"><param name="Name" value="VL53LX_GetDistanceMode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga976318c62e15433979330d999eda2085"><param name="Name" value="VL53LX_GetMeasurementDataReady"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gaf66406379e6277136561fb44fa9b7801"><param name="Name" value="VL53LX_GetMeasurementTimingBudgetMicroSeconds"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gad46055cfc36fa78bd18656fdb2778f40"><param name="Name" value="VL53LX_GetMultiRangingData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gaf9ccf884154ca73e8d3e31458926fc02"><param name="Name" value="VL53LX_GetOpticalCenter"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gaa8a43ff4ea0cb04568a130320a6c3e5b"><param name="Name" value="VL53LX_GetProductRevision"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gae5bffb203adc06a463979c1338273c89"><param name="Name" value="VL53LX_GetTuningParameter"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga4e10890644e6f1e0aa04b241b1b7710d"><param name="Name" value="VL53LX_GetUID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gaf5962474953a1b6826797996c08d3b51"><param name="Name" value="VL53LX_GetUserROI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga6b88a610e8b0cf9f374287ab76862a70"><param name="Name" value="VL53LX_GetVersion"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga301c02cacb3c04d9c0719af804c81d3f"><param name="Name" value="VL53LX_GetXTalkCompensationEnable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga9ec2303488dffc38fe107712b1239354"><param name="Name" value="VL53LX_PerformOffsetPerVcselCalibration"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gad5483ca73957b93f7306e46f127dfe5a"><param name="Name" value="VL53LX_PerformOffsetSimpleCalibration"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga4f9f6779095183c67c2e1f8ef2a70e07"><param name="Name" value="VL53LX_PerformOffsetZeroDistanceCalibration"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga4d1cc4ed94cd08dc30b9653ba5e160ff"><param name="Name" value="VL53LX_PerformRefSpadManagement"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga35da5efdc6c7790541017ed1ed33b61d"><param name="Name" value="VL53LX_PerformXTalkCalibration"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga1b99482b11f829e475c658153335b9a6"><param name="Name" value="VL53LX_SetCalibrationData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga45adfe07560f6865f57f188986a6504f"><param name="Name" value="VL53LX_SetDeviceAddress"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga2120ed92d227d907a253f8707fdda022"><param name="Name" value="VL53LX_SetDistanceMode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga15738c7e4b1c0e70b717580d30bec277"><param name="Name" value="VL53LX_SetMeasurementTimingBudgetMicroSeconds"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gaa3d8006bfd7c81049a51b43dacea8810"><param name="Name" value="VL53LX_SetOffsetCorrectionMode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga9b01c8231ca6b15de191b2cc537f64eb"><param name="Name" value="VL53LX_SetTuningParameter"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga6660ebead98d8135e30617e6c6ec98f2"><param name="Name" value="VL53LX_SetUserROI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga5c4c63a8ca0d132da96213b6c54a1582"><param name="Name" value="VL53LX_SetXTalkCompensationEnable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga3bc968e46f425f5e4c37ef52774a728e"><param name="Name" value="VL53LX_SmudgeCorrectionEnable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gab40e19da0768eeacfba942e8d1cb9998"><param name="Name" value="VL53LX_StartMeasurement"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#gac6a3ab3504cce1b8233839186b6bd9bf"><param name="Name" value="VL53LX_StopMeasurement"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga828cdc3b4c859779a02d717e93ec1e85"><param name="Name" value="VL53LX_WaitDeviceBooted"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html"><param name="Name" value="vl53lx_api.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__api_8h.html#ga5f74d43ed22d3f6e43815d6ec824b675"><param name="Name" value="VL53LX_WaitMeasurementDataReady"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga4356b5f4fd2a64bda6d66f769f26d350"><param name="Name" value="VL53LX_ADDITIONAL_CALIBRATION_DATA_STRUCT_VERSION"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga68a075e140fb7a82fac27ec99d808e72"><param name="Name" value="VL53LX_AdditionalData_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga72f95286573522192e17b10d44a47ff5"><param name="Name" value="VL53LX_CALIBRATION_DATA_STRUCT_VERSION"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga951987fe6be703ed09b7fa08cf9b1463"><param name="Name" value="VL53LX_DISTANCEMODE_LONG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga11c2654259fee3a0808deaf004f48104"><param name="Name" value="VL53LX_DISTANCEMODE_MEDIUM"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gac8906ccb1d7af5f92d6279055858c52e"><param name="Name" value="VL53LX_DISTANCEMODE_SHORT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gada4f026096ed172a4ddda00a83313a9a"><param name="Name" value="VL53LX_DistanceModes"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga09d6fe2309faaebfccaad658fdb0edfc"><param name="Name" value="VL53LX_FIXPOINT08TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga808469fe5cac9b14ab00108cef76dcbd"><param name="Name" value="VL53LX_FIXPOINT102TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gac77f21754408e0a0d5bb49ae39b6478b"><param name="Name" value="VL53LX_FIXPOINT142TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga2ceb99a59ab2e6aeecd233398e91eb3d"><param name="Name" value="VL53LX_FIXPOINT160TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gad09de362907fb03c8e9d9e03138d0815"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT08"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga28ad457940bc8400ea8b6bfcea34bc7b"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT102"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga090cbd93227007a6d615315125eb99f4"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT142"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gaca7d5306b4122cb610c93c55a9de606d"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT160"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga9b06b8d73114aff24b6edbf859c3bd66"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT313"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga43ee33f7cb03641ed3248eaa1f3cd8bc"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT412"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gae0f5b042006d7faf7ecae6a8db02f53f"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT44"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga4051a28469bdbba3972abff74a33f067"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT53"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga027bfb9b05f6bf8a194049d4f1aa46d6"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT72"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gad64f1630f348da1093b39a1ee9c2ee06"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT88"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga96a726bd0d435a23aef1fdbe3cc59bbd"><param name="Name" value="VL53LX_FIXPOINT1616TOFIXPOINT97"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga828e66366e71be17af281d6855ad8330"><param name="Name" value="VL53LX_FIXPOINT313TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga5a340561bbd2a859de37879da07b8b93"><param name="Name" value="VL53LX_FIXPOINT412TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga6ee51298d510ce74395b4c56b4c48f74"><param name="Name" value="VL53LX_FIXPOINT44TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga3431420ec422fc40b5e986702615bf22"><param name="Name" value="VL53LX_FIXPOINT53TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga8b3e5cae123089e4fe428e0715196c95"><param name="Name" value="VL53LX_FIXPOINT72TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gab3324893a39c8949550dc625cde7725c"><param name="Name" value="VL53LX_FIXPOINT88TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gaa0655db41fd92590b6b751ccac3e5eae"><param name="Name" value="VL53LX_FIXPOINT97TOFIXPOINT1616"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga116bb2f99c536de522ae8ac43ae882ce"><param name="Name" value="VL53LX_GETARRAYPARAMETERFIELD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga777ea43efd464ac52347ee18862381a9"><param name="Name" value="VL53LX_GETDEVICESPECIFICPARAMETER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gaa68d375beb0d337005684983de42329e"><param name="Name" value="VL53LX_GETPARAMETERFIELD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga458402f4023d8148c62cd3904bbae907"><param name="Name" value="VL53LX_IMPLEMENTATION_VER_MAJOR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga94b1192391491891f9d22d9c3d9eadc9"><param name="Name" value="VL53LX_IMPLEMENTATION_VER_MINOR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gaad697f22c23da72e36d8225df8326bd4"><param name="Name" value="VL53LX_IMPLEMENTATION_VER_REVISION"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gac2fe85ba6fd40029cb363c52e20b5ea9"><param name="Name" value="VL53LX_IMPLEMENTATION_VER_SUB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gaf2ab2cf32083b4da4ec323c641a4051c"><param name="Name" value="VL53LX_MAKEUINT16"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gafb0ebf3ae22383ddbec4e91f108190c1"><param name="Name" value="VL53LX_OFFSETCORRECTIONMODE_PERVCSEL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gad7bdb399bc1cc1dfd6dc5510c5a63142"><param name="Name" value="VL53LX_OFFSETCORRECTIONMODE_STANDARD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga188746d8ce505049ce3c07bb048011d1"><param name="Name" value="VL53LX_OffsetCorrectionModes"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga5422eeff85dc3d6783409912172ca52f"><param name="Name" value="VL53LX_RANGESTATUS_HARDWARE_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga67ba506a869424bb130675d2dcca4556"><param name="Name" value="VL53LX_RANGESTATUS_MIN_RANGE_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gad43746bffe516e014283b276436e71f7"><param name="Name" value="VL53LX_RANGESTATUS_NONE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gaa64f88d340a3de4c7d000647d8f47fdc"><param name="Name" value="VL53LX_RANGESTATUS_OUTOFBOUNDS_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga1d62089722b3f75c0281d86fd288cf4f"><param name="Name" value="VL53LX_RANGESTATUS_PROCESSING_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga2a9197011a223b8ac0b2fa03c8ece5b1"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_INVALID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga3add01513b60234b04f826ec2b96fb75"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_VALID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gafad2f5998e33df0bdd65d92e38861a3d"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_VALID_MERGED_PULSE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gac509d65d997a8a77864b61cf46a9c3bf"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_VALID_MIN_RANGE_CLIPPED"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga943dca2ae27db588434df8ef46c322df"><param name="Name" value="VL53LX_RANGESTATUS_RANGE_VALID_NO_WRAP_CHECK_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga9fc1f8de060e798349ef7bf7f038027d"><param name="Name" value="VL53LX_RANGESTATUS_SIGMA_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga8bd08bbea95f31580c902d9bb713d863"><param name="Name" value="VL53LX_RANGESTATUS_SIGNAL_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gab68c8e89002ced9b7aebadc0bc120c4d"><param name="Name" value="VL53LX_RANGESTATUS_SYNCRONISATION_INT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gac3ce060a65c337e79b61206c690895a8"><param name="Name" value="VL53LX_RANGESTATUS_TARGET_PRESENT_LACK_OF_SIGNAL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga9e380a0f4bb30a36ea9206839fc0e1ab"><param name="Name" value="VL53LX_RANGESTATUS_WRAP_TARGET_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga4bc0866c36afb07046fe421a98d37faf"><param name="Name" value="VL53LX_RANGESTATUS_XTALK_SIGNAL_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga6ad625d22f7a50cabc67794f6f59be7c"><param name="Name" value="VL53LX_SETARRAYPARAMETERFIELD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gae015403ad7ac36fe375e55d7f2b5cba1"><param name="Name" value="VL53LX_SETDEVICESPECIFICPARAMETER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga6bb7ead0cc9b6f89f3c0171bb543b4de"><param name="Name" value="VL53LX_SETPARAMETERFIELD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga4ebfcd5bca502e1dccf295539c3a5a18"><param name="Name" value="VL53LX_SMUDGE_CORRECTION_CONTINUOUS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#gae9fcf921803ae9bc340c2587264f8796"><param name="Name" value="VL53LX_SMUDGE_CORRECTION_DEBUG"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga5d2b0973074c891efa570780b82c2e84"><param name="Name" value="VL53LX_SMUDGE_CORRECTION_NONE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga45bd9b1920c9db369ef74958e43e2703"><param name="Name" value="VL53LX_SMUDGE_CORRECTION_SINGLE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html"><param name="Name" value="vl53lx_def.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__def_8h.html#ga8ce34498ee5cf35e69911e7735b876ae"><param name="Name" value="VL53LX_SmudgeCorrectionModes"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga6bcc7644b1096cf6d6e53e432581ed5b"><param name="Name" value="VL53LX_ERROR_BUFFER_TOO_SMALL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga26fe06ff034567f492cab1fe2b0567de"><param name="Name" value="VL53LX_ERROR_CALIBRATION_WARNING"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gade11ffa977c009684b5d2ca855628cab"><param name="Name" value="VL53LX_ERROR_COMMS_BUFFER_TOO_SMALL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga09e64161fd6d33c558ef566916ec405f"><param name="Name" value="VL53LX_ERROR_CONTROL_INTERFACE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gacec2e94d3670f67f4e4d0c72974cc5f9"><param name="Name" value="VL53LX_ERROR_DIVISION_BY_ZERO"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gabd4917292bd1f2e93180c2d3ce29b550"><param name="Name" value="VL53LX_ERROR_GPH_ID_CHECK_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gadb48e4aa574685bd397d187d468298c6"><param name="Name" value="VL53LX_ERROR_GPH_SYNC_CHECK_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga1254b68f85241a12798c2f992be3919b"><param name="Name" value="VL53LX_ERROR_GPIO_FUNCTIONALITY_NOT_SUPPORTED"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga5b24b8848d1fb8362e5d387dd5e057b7"><param name="Name" value="VL53LX_ERROR_GPIO_NOT_EXISTING"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga7edc3494341508e537e46eec3248a517"><param name="Name" value="VL53LX_ERROR_INVALID_COMMAND"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga4aa2c3fb8b99008bb04c0eec0abfa5ab"><param name="Name" value="VL53LX_ERROR_INVALID_PARAMS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga87c116877eacf0b714531fc08c02f1ee"><param name="Name" value="VL53LX_ERROR_MIN_CLIPPED"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga86632d4854d94441b4b4c37285ca2e6a"><param name="Name" value="VL53LX_ERROR_MODE_NOT_SUPPORTED"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gaf5277f02b565cc15e48ceb8aaf37596f"><param name="Name" value="VL53LX_ERROR_NONE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gaa97bc812244c1a86a8b187b65284adc1"><param name="Name" value="VL53LX_ERROR_NOT_IMPLEMENTED"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga6c1cead8d48d3abdd6d26dc721ccfe15"><param name="Name" value="VL53LX_ERROR_NOT_SUPPORTED"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga296c21980f215db710df9e29ab6be0bc"><param name="Name" value="VL53LX_ERROR_OFFSET_CAL_NO_SAMPLE_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga1e00579295ade6ba1dbcb8387fe2b00c"><param name="Name" value="VL53LX_ERROR_OFFSET_CAL_NO_SPADS_ENABLED_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga24936039a62d73bb7d51eebb63902e24"><param name="Name" value="VL53LX_ERROR_PLATFORM_SPECIFIC_START"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga868821a288d369feecce0114ade347b0"><param name="Name" value="VL53LX_ERROR_RANGE_ERROR"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga9d889c98e71ecd2908b640340ccef7f2"><param name="Name" value="VL53LX_ERROR_REF_SPAD_INIT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga0cc2ad453359004535d17e2f09f2391f"><param name="Name" value="VL53LX_ERROR_STREAM_COUNT_CHECK_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga1ba0942e3adc59442907655f5fbfb967"><param name="Name" value="VL53LX_ERROR_TIME_OUT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gae78ae8c669799f5ea479f1f1ca0351c7"><param name="Name" value="VL53LX_ERROR_TUNING_PARM_KEY_MISMATCH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga70257fa6cc064d9c25cf69e3f552ed7b"><param name="Name" value="VL53LX_ERROR_UNDEFINED"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga2ea9492041f7d1e60196ec61683fdd1b"><param name="Name" value="VL53LX_ERROR_XTALK_EXTRACTION_NO_SAMPLE_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga488317567be486bf9f85a99a2bdd3724"><param name="Name" value="VL53LX_ERROR_XTALK_EXTRACTION_SIGMA_LIMIT_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gab2d0f4fb1da8ade547e6f546e5b95810"><param name="Name" value="VL53LX_ERROR_ZONE_CAL_NO_SAMPLE_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gac3d91ca2a1bfc91be1c6ee0bb836ff8d"><param name="Name" value="VL53LX_ERROR_ZONE_GPH_ID_CHECK_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga978ca2104b6cc4e6efe89f0481d655e4"><param name="Name" value="VL53LX_ERROR_ZONE_STREAM_COUNT_CHECK_FAIL"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga6faa6b53bf7affad63112df169608819"><param name="Name" value="VL53LX_Error"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gabbeba880ecdf0101e5a3dc1e9e4dc998"><param name="Name" value="VL53LX_WARNING_OFFSET_CAL_MISSING_SAMPLES"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga55ac72a6a33b0f968796542525c71e52"><param name="Name" value="VL53LX_WARNING_OFFSET_CAL_RATE_TOO_HIGH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gae234bd7c6f29755ce8861a0b2eb01db5"><param name="Name" value="VL53LX_WARNING_OFFSET_CAL_SIGMA_TOO_HIGH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga19e91142c4e109e69c1e4e12b01bb33c"><param name="Name" value="VL53LX_WARNING_OFFSET_CAL_SPAD_COUNT_TOO_LOW"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga17d4dbd3a6882608c072b44ef351081c"><param name="Name" value="VL53LX_WARNING_REF_SPAD_CHAR_NOT_ENOUGH_SPADS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gab261866bb874faa74e5ecb795984eea3"><param name="Name" value="VL53LX_WARNING_REF_SPAD_CHAR_RATE_TOO_HIGH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga08aa296b284a87aeeee5ac0708acee41"><param name="Name" value="VL53LX_WARNING_REF_SPAD_CHAR_RATE_TOO_LOW"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gab6b65b7f782245aa8a968dbacf3da32d"><param name="Name" value="VL53LX_WARNING_XTALK_MISSING_SAMPLES"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga3326d9b900a3b03f68fc0d99b2263d93"><param name="Name" value="VL53LX_WARNING_XTALK_NO_SAMPLES_FOR_GRADIENT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga8707eab4ff749521dcb50b0ff1c0a716"><param name="Name" value="VL53LX_WARNING_XTALK_SIGMA_LIMIT_FOR_GRADIENT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#gac1ee9d8e3c4e005c9d662d9a6d01d31e"><param name="Name" value="VL53LX_WARNING_ZONE_CAL_MISSING_SAMPLES"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga5b08673a9620df628494258c7211c2b1"><param name="Name" value="VL53LX_WARNING_ZONE_CAL_RATE_TOO_HIGH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html"><param name="Name" value="vl53lx_error_codes.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__error__codes_8h.html#ga8d91dcad662dd5d8bd2bb2f0897da5c8"><param name="Name" value="VL53LX_WARNING_ZONE_CAL_SIGMA_TOO_HIGH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a926ce3aa4ac9894168bc02af68f3ecf2"><param name="Name" value="VL53LX_CommsClose"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a87bf6445c88c1f135dff42952221a4f0"><param name="Name" value="VL53LX_CommsInitialise"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a2c3371f6c48c80243045ead46f98e8ac"><param name="Name" value="VL53LX_GetTickCount"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a7e6d5d42e3c7d98d04f28d89ec450821"><param name="Name" value="VL53LX_GetTimerFrequency"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#abd7210aa29ac34e66cc9eaaecc8ee9f0"><param name="Name" value="VL53LX_GetTimerValue"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#ac20b771e321f95d2a6039495445ddca4"><param name="Name" value="VL53LX_GpioCommsSelect"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#ac6042aa65c9f186312e4e3daead292ec"><param name="Name" value="VL53LX_GpioGetValue"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#afc05d7593eb14a239b8b9484c2f2a328"><param name="Name" value="VL53LX_GpioInterruptDisable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a5e54d1d2b9f374ac5915596eecfbb73e"><param name="Name" value="VL53LX_GpioInterruptEnable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a988dade9027f7f1565f6bbc0474c793e"><param name="Name" value="VL53LX_GpioPowerEnable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a5504e1c5d49fdf8b9283fa916126b6b0"><param name="Name" value="VL53LX_GpioSetMode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a12873acf3a3aa3ded8b0ecd1ffc18ecf"><param name="Name" value="VL53LX_GpioSetValue"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a7c42d58b54178754af84e266500f87c9"><param name="Name" value="VL53LX_GpioXshutdown"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#afaed94fdae8a92a8e36acacccaef4cd4"><param name="Name" value="VL53LX_IPP_API"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a34acc303cff550e8164c018818e0a773"><param name="Name" value="VL53LX_RdByte"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#aa5d123e781d54adf257eab306418e196"><param name="Name" value="VL53LX_RdDWord"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#ad051530962cab6ed185c756a8f8d0baf"><param name="Name" value="VL53LX_RdWord"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a53cdae3867565f8e1b4ba694d29bf710"><param name="Name" value="VL53LX_ReadMulti"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a9fc5b886afc5090660e2cdcf438f10cd"><param name="Name" value="VL53LX_WaitMs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a308bbd4abbfcaac856cb5f9b335259a3"><param name="Name" value="VL53LX_WaitUs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#abca25f702af2411d64f3afe46aebbfe7"><param name="Name" value="VL53LX_WaitValueMaskEx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a18f5514cded5c78318d3b1256276e514"><param name="Name" value="VL53LX_WrByte"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a6eeb635a188b425531b379be6fbd3e76"><param name="Name" value="VL53LX_WrDWord"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#a9bbf9bb3a5a8a5178bef4610e40e8e51"><param name="Name" value="VL53LX_WrWord"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html"><param name="Name" value="vl53lx_platform.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform_8h.html#aa8e7d5fb3e6a577ae9cdabaecbdac343"><param name="Name" value="VL53LX_WriteMulti"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__init_8h.html"><param name="Name" value="vl53lx_platform_init.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__init_8h.html#aba141ba112f2f8c242423dac59625149"><param name="Name" value="VL53LX_platform_init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__init_8h.html"><param name="Name" value="vl53lx_platform_init.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__init_8h.html#a7fb55f75ecca0af5355fbbdecf459e00"><param name="Name" value="VL53LX_platform_terminate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__ipp_8h.html"><param name="Name" value="vl53lx_platform_ipp.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__ipp_8h.html#ab8d9359bf3a047a851d01985d4ff9c01"><param name="Name" value="VL53LX_ipp_hist_ambient_dmax"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__ipp_8h.html"><param name="Name" value="vl53lx_platform_ipp.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__ipp_8h.html#a5aa2f01bc6ee4d4bbf22a746cda62b2d"><param name="Name" value="VL53LX_ipp_hist_process_data"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__ipp_8h.html"><param name="Name" value="vl53lx_platform_ipp.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__ipp_8h.html#a0a30caa46044712aa9f535539ef71b2b"><param name="Name" value="VL53LX_ipp_xtalk_calibration_process_data"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html"><param name="Name" value="vl53lx_platform_log.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#aa04b831714c5019aab1a35b6710462fb"><param name="Name" value="_LOG_FUNCTION_END"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html"><param name="Name" value="vl53lx_platform_log.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#ac229b838e74d9a8ec587ddf1a7005e4a"><param name="Name" value="_LOG_FUNCTION_END_FMT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html"><param name="Name" value="vl53lx_platform_log.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#a04661915ba935d13648ff8b9bc5002cd"><param name="Name" value="_LOG_FUNCTION_START"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html"><param name="Name" value="vl53lx_platform_log.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#a9b4227d2b33f48483b51fbf53cb4a22d"><param name="Name" value="_LOG_GET_TRACE_FUNCTIONS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html"><param name="Name" value="vl53lx_platform_log.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#a27b78f13b0fb1989bc0d2125815cee49"><param name="Name" value="_LOG_SET_TRACE_FUNCTIONS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html"><param name="Name" value="vl53lx_platform_log.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#a2b4d5a00a78ae5348f435bc955357eb5"><param name="Name" value="_LOG_STRING_BUFFER"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html"><param name="Name" value="vl53lx_platform_log.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__log_8h.html#aa691b208c68b12440939073c8943d698"><param name="Name" value="_LOG_TRACE_PRINT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a23e0129e0d6c38bd54e1faf3a8a89e68"><param name="Name" value="VL53LX_BOOT_COMPLETION_POLLING_TIMEOUT_MS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a613105ca4210a255f47a7d32bcf438b9"><param name="Name" value="VL53LX_BYTES_PER_DWORD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a909ab26afbd88d3e05476167c2fb0f8f"><param name="Name" value="VL53LX_BYTES_PER_WORD"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#addf532dac437c7f147483e31580c8434"><param name="Name" value="VL53LX_GAIN_FACTOR__HISTOGRAM_DEFAULT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#afce832602c1dfc2518fe3811d4c84470"><param name="Name" value="VL53LX_GAIN_FACTOR__STANDARD_DEFAULT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#afcb4a95b05010edd8f6a75bb22bbfbf4"><param name="Name" value="VL53LX_MAX_RANGE_RESULTS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#ad6aaf562ccf597f3c82752bb35e62dbb"><param name="Name" value="VL53LX_MAX_STRING_LENGTH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a5d81a732813b2eff13adbfbc031f5f8c"><param name="Name" value="VL53LX_MAX_USER_ZONES"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#add80e43ae1f4e3bf1f02ddd7e6a824cc"><param name="Name" value="VL53LX_OFFSET_CAL_MAX_PRE_PEAK_RATE_MCPS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a16a4c28d83c18eeaaba77ada4ecda309"><param name="Name" value="VL53LX_OFFSET_CAL_MAX_SIGMA_MM"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#adbe815d79b33edc772986fff023a6cd2"><param name="Name" value="VL53LX_OFFSET_CAL_MIN_EFFECTIVE_SPADS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a7da7b632881a104b7b6c7765c8413e50"><param name="Name" value="VL53LX_POLLING_DELAY_MS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#ac81240eea2bb807988217dca731f1fca"><param name="Name" value="VL53LX_RANGE_COMPLETION_POLLING_TIMEOUT_MS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a44b83096c558910026867190bc7787d2"><param name="Name" value="VL53LX_TEST_COMPLETION_POLLING_TIMEOUT_MS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#a7b61d5c6a62818c3e316e6ad7adb7012"><param name="Name" value="VL53LX_TUNINGPARM_PRIVATE_PAGE_BASE_ADDRESS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#aee5e7c20282d5d408693b2fce079441e"><param name="Name" value="VL53LX_TUNINGPARM_PUBLIC_PAGE_BASE_ADDRESS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#ab21d7490fa6f70a101252a7c4333c9d5"><param name="Name" value="VL53LX_XTALK_EXTRACT_MAX_SIGMA_MM"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#af88e7e5ba29457a65c77e68b188115ae"><param name="Name" value="VL53LX_ZONE_CAL_MAX_PRE_PEAK_RATE_MCPS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html"><param name="Name" value="vl53lx_platform_user_config.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__config_8h.html#aba7b4a646e62c1795889dea132e0aa52"><param name="Name" value="VL53LX_ZONE_CAL_MAX_SIGMA_MM"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html"><param name="Name" value="vl53lx_platform_user_data.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#aa3801482477f660fbdd7853ec6f83c51"><param name="Name" value="VL53LXDevDataGet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html"><param name="Name" value="vl53lx_platform_user_data.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#ae251aa11ef1022addb7643c82205ac05"><param name="Name" value="VL53LXDevDataSet"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html"><param name="Name" value="vl53lx_platform_user_data.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#aabdaba5ed48bd8561abaa9f41a7f3ffe"><param name="Name" value="VL53LXDevStructGetLLDriverHandle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html"><param name="Name" value="vl53lx_platform_user_data.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#aaddf163ccf43cc01afdcbf71fa8b28e0"><param name="Name" value="VL53LXDevStructGetLLResultsHandle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html"><param name="Name" value="vl53lx_platform_user_data.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__data_8h.html#a6282e5786d7384e27f6e9a5091fdd403"><param name="Name" value="VL53LX_DEV"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html"><param name="Name" value="vl53lx_platform_user_defines.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#a8d92b65da83e53d9ea32db083351fdb5"><param name="Name" value="DISABLE_WARNINGS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html"><param name="Name" value="vl53lx_platform_user_defines.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#a9bc6009f246aea86c0e91e5a56a665b3"><param name="Name" value="ENABLE_WARNINGS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html"><param name="Name" value="vl53lx_platform_user_defines.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#aff1dba97ebc9b34f55b2320ce58130d9"><param name="Name" value="WARN_OVERRIDE_STATUS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html"><param name="Name" value="vl53lx_platform_user_defines.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#af292e8c89b73d8d0af8a30c6122acce1"><param name="Name" value="do_division_s"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html"><param name="Name" value="vl53lx_platform_user_defines.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__platform__user__defines_8h.html#adadd986b7db0ee4e1b2d797187bcc025"><param name="Name" value="do_division_u"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html"><param name="Name" value="vl53lx_types.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#afb910790161809fc76e1a274a6349384"><param name="Name" value="FixPoint1616_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html"><param name="Name" value="vl53lx_types.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#aa343fa3b3d06292b959ffdd4c4703b06"><param name="Name" value="int16_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html"><param name="Name" value="vl53lx_types.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#a32f2e37ee053cf2ce8ca28d1f74630e5"><param name="Name" value="int32_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html"><param name="Name" value="vl53lx_types.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#aef44329758059c91c76d334e8fc09700"><param name="Name" value="int8_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html"><param name="Name" value="vl53lx_types.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#a273cf69d639a59973b6019625df33e30"><param name="Name" value="uint16_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html"><param name="Name" value="vl53lx_types.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#a435d1572bf3f880d55459d9805097f62"><param name="Name" value="uint32_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html"><param name="Name" value="vl53lx_types.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#aaa5d1cd013383c889537491c3cfd9aad"><param name="Name" value="uint64_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html"><param name="Name" value="vl53lx_types.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="vl53lx__types_8h.html#aba7bc1797add20fe3efdf37ced1182c5"><param name="Name" value="uint8_t"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structVL53LX__CalibrationData__t.html#af6992e6b2e172d5630d8414a4859833b"><param name="Name" value="xtalkhisto"></OBJECT>
+</UL>
+</BODY>
+</HTML>
